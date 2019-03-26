@@ -19,11 +19,11 @@ Processador - Intel I7
 
 Memória - 8gb
 
-XAMPP Server
+#XAMPP Server
 
 PHP 5.6
 
-Ajuste de configuração no arquivo php.ini:
+#Ajuste de configuração no arquivo php.ini:
 
 max_execution_time=5000
 
