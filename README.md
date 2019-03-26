@@ -11,3 +11,17 @@ OLIVEIRA, F. A.; COSTA, R. L.; GOLDSCHMIDT, R. R. ; CAVALCANTI, M. C. Mineraçã
 
 2-
 OLIVEIRA, F. A.; MARTINS, Y. C.; ROCHA, D. S. B.; SIQUEIRA, M. F.; SILVA, L. A. E.; COSTA, R. L.; GOLDSCHMIDT, R. ; CAVALCANTI, M. C. Jabotg: Extending the herbarium dataset frontiers. In: INTERNATIONAL CONFERENCE ON METADATA AND SEMANTICS RESEARCH (MTSR’17), 11th., 2017. Electronic proceedings... Tallinn: Book of Abstracts and Posters, 2017, p. 45–53. Disponível em: http://www.mtsr-conf.org/2017/archived/files/MTSR17_BOOK_OF_ABSTRACTS_AND_POSTERS_v5_final.pdf. Acesso em: 11/10/2018.
+
+
+#Configuração da máquina utilizada nos testes:
+
+Processador - Intel I7
+Memória - 8gb
+
+XAMPP Server
+PHP 5.6
+
+Ajuste de configuração no arquivo php.ini:
+max_execution_time=5000
+max_input_time=5000
+memory_limit=1024M
