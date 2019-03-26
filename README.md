@@ -16,12 +16,17 @@ OLIVEIRA, F. A.; MARTINS, Y. C.; ROCHA, D. S. B.; SIQUEIRA, M. F.; SILVA, L. A. 
 #Configuração da máquina utilizada nos testes:
 
 Processador - Intel I7
+
 Memória - 8gb
 
 XAMPP Server
+
 PHP 5.6
 
 Ajuste de configuração no arquivo php.ini:
+
 max_execution_time=5000
+
 max_input_time=5000
+
 memory_limit=1024M
